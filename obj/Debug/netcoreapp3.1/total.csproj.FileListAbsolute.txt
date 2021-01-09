@@ -1,0 +1,15 @@
+C:\Users\D\Source\Repos\total\total\bin\Debug\netcoreapp3.1\total.exe
+C:\Users\D\Source\Repos\total\total\bin\Debug\netcoreapp3.1\total.deps.json
+C:\Users\D\Source\Repos\total\total\bin\Debug\netcoreapp3.1\total.runtimeconfig.json
+C:\Users\D\Source\Repos\total\total\bin\Debug\netcoreapp3.1\total.runtimeconfig.dev.json
+C:\Users\D\Source\Repos\total\total\bin\Debug\netcoreapp3.1\total.dll
+C:\Users\D\Source\Repos\total\total\bin\Debug\netcoreapp3.1\total.pdb
+C:\Users\D\Source\Repos\total\total\obj\Debug\netcoreapp3.1\total.csprojAssemblyReference.cache
+C:\Users\D\Source\Repos\total\total\obj\Debug\netcoreapp3.1\total.Form1.resources
+C:\Users\D\Source\Repos\total\total\obj\Debug\netcoreapp3.1\total.csproj.GenerateResource.cache
+C:\Users\D\Source\Repos\total\total\obj\Debug\netcoreapp3.1\total.AssemblyInfoInputs.cache
+C:\Users\D\Source\Repos\total\total\obj\Debug\netcoreapp3.1\total.AssemblyInfo.cs
+C:\Users\D\Source\Repos\total\total\obj\Debug\netcoreapp3.1\total.csproj.CoreCompileInputs.cache
+C:\Users\D\Source\Repos\total\total\obj\Debug\netcoreapp3.1\total.dll
+C:\Users\D\Source\Repos\total\total\obj\Debug\netcoreapp3.1\total.pdb
+C:\Users\D\Source\Repos\total\total\obj\Debug\netcoreapp3.1\total.genruntimeconfig.cache
